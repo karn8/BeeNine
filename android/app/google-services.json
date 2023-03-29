@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "869710636149",
+    "project_id": "ff-ywtext",
+    "storage_bucket": "ff-ywtext.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869710636149:android:be33c53f5fbc3a4064843c",
+        "android_client_info": {
+          "package_name": "com.karangupta.yellowwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869710636149-q7sbobjivtunfctts9p14to1hj5q6iuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karangupta.yellowwall",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "869710636149-i9k8ai7lpv6gks84eh8arc6mi4rdorpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1j47ifIxUN9aG1Kpaleu-pluRnKMLRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869710636149-i9k8ai7lpv6gks84eh8arc6mi4rdorpa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869710636149-oncqf6nredpn1hs6sotfupt1j3ebu6f6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.karangupta.yellowwall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
